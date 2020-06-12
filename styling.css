@@ -1,0 +1,13 @@
+.ul-style {
+  list-style-type: square;
+  padding-left: 12px;
+  margin-left: 20px;
+}
+
+.pic-css{
+  max-width: 25%;  
+}
+
+#disp{
+  display: none;
+}
